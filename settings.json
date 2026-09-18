@@ -2,7 +2,7 @@
   "name": "Rimuru",
   "bot-account": {
     "username": "Rimuru",
-    "password": TEMPEST,
+    "password": ,
     "type": "offline"
   },
   "server": {
